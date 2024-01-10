@@ -37,7 +37,7 @@ I prioritize responsive design and user experience, effectively visualize data, 
     >
 </a>
 
-<a href="google.com">
+<a href="https://trendyolclone.vercel.app">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/3766504499.png" 
     alt
@@ -46,7 +46,7 @@ I prioritize responsive design and user experience, effectively visualize data, 
     >
 </a>
 
-<a align="left" target="_blank" href="https://builderweb.vercel.app/">
+<a href="https://builderweb.vercel.app/">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/8301339924.png" 
     alt
@@ -55,7 +55,7 @@ I prioritize responsive design and user experience, effectively visualize data, 
     >
 </a>
 
-<a target="_blank" href="https://builderweb.vercel.app/">
+<a href="https://rentyourcars.vercel.app/">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/driveshare1.jpg" 
     alt
@@ -64,7 +64,7 @@ I prioritize responsive design and user experience, effectively visualize data, 
     >
 </a>
 
-<a target="_blank" href="https://furkanucgul.github.io/3d-starwars">
+<a href="https://furkanucgul.github.io/3d-starwars">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/7095261185.jpg" 
     alt
@@ -73,7 +73,7 @@ I prioritize responsive design and user experience, effectively visualize data, 
     >
 </a>
 
-<a target="_blank" href="https://builderweb.vercel.app/">
+<a href="https://furkanucgul.github.io">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/4366055700.jpg" 
     alt
