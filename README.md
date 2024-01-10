@@ -30,7 +30,7 @@ I prioritize responsive design and user experience, effectively visualize data, 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-<div style="width:100vh; display:flex; flex-wrap:wrap; gap:15px">
+<div style="width:100%; display:flex; flex-wrap:wrap; gap:15px">
 
 <a href="google.com">
     <img 
