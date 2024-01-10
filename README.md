@@ -27,19 +27,14 @@ I prioritize responsive design and user experience, effectively visualize data, 
 #
 
 <h2>🚀 Latest Projects </h2>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<div style="width:100%; display:flex; flex-wrap:wrap; gap:15px">
-
-<a href="google.com">
+<div>
+<a href="https://furkanucgul.github.io" >
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/9764016576.jpg" 
     alt
     width="320"
     height="200"
     >
-    <p style="text-align: center;">Portfolio</p>
 </a>
 
 <a href="google.com">
@@ -49,49 +44,43 @@ I prioritize responsive design and user experience, effectively visualize data, 
     width="320"
     height="200"
     >
-    <p style="text-align: center;">Trendyol Clone</p>
 </a>
 
-<a href="https://builderweb.vercel.app/">
+<a align="left" target="_blank" href="https://builderweb.vercel.app/">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/8301339924.png" 
     alt
     width="320"
     height="200"
     >
-    <p style="text-align: center;">Web Builder</p>
 </a>
 
-<a href="https://builderweb.vercel.app/">
+<a target="_blank" href="https://builderweb.vercel.app/">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/driveshare1.jpg" 
     alt
     width="320"
     height="200"
     >
-    <p style="text-align: center;">Rent Car</p>
 </a>
 
-<a href="https://furkanucgul.github.io/3d-starwars">
+<a target="_blank" href="https://furkanucgul.github.io/3d-starwars">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/7095261185.jpg" 
     alt
     width="320"
     height="200"
     >
-    <p style="text-align: center;">3D Star Wars</p>
 </a>
 
-<a href="https://builderweb.vercel.app/">
+<a target="_blank" href="https://builderweb.vercel.app/">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/4366055700.jpg" 
     alt
     width="320"
     height="200"
     >
-    <p style="text-align: center;">CDN Application</p>
 </a>
-
 </div>
 
 <br/>
