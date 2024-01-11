@@ -28,13 +28,14 @@ I prioritize responsive design and user experience, effectively visualize data, 
 
 <h2>🚀 Latest Projects </h2>
 <div>
-<a href="https://furkanucgul.github.io" >
+<a style="display: flex; flex-direction: column;" href="https://furkanucgul.github.io" >
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/9764016576.jpg" 
     alt
     width="320"
     height="200"
     >
+    <span style="width: 320px;">Trenyol Clone</span>
 </a>
 
 <a href="https://trendyolclone.vercel.app">
