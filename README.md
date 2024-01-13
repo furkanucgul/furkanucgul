@@ -28,58 +28,52 @@ I prioritize responsive design and user experience, effectively visualize data, 
 
 <h2>🚀 Latest Projects </h2>
 <div>
+<a href="https://furkanucgul.github.io" >
+    <img 
+    src="https://furkanucgul.github.io/CDNapp/portfolio/images/portfolio.gif" 
+    alt
+    >
+</a>
+
+<a href="https://furkanucgul.github.io" >
+    <img 
+    src="https://furkanucgul.github.io/CDNapp/portfolio/images/driveshare4.gif" 
+    alt
+    >
+</a>
+
+<a href="https://furkanucgul.github.io" >
+    <img 
+    src="https://furkanucgul.github.io/CDNapp/portfolio/images/webbuilder.gif" 
+    alt
+    >
+</a>
+
 <a style="display: flex; flex-direction: column;" href="https://furkanucgul.github.io" >
     <img 
-    src="https://furkanucgul.github.io/CDNapp/portfolio/images/9764016576.jpg" 
+    src="https://furkanucgul.github.io/CDNapp/portfolio/images/trendyol.gif" 
     alt
-    width="320"
-    height="200"
-    >
-    <span style="width: 320px;">Trenyol Clone</span>
-</a>
-
-<a href="https://trendyolclone.vercel.app">
-    <img 
-    src="https://furkanucgul.github.io/CDNapp/portfolio/images/3766504499.png" 
-    alt
-    width="320"
-    height="200"
     >
 </a>
 
-<a href="https://builderweb.vercel.app/">
+<a style="display: flex; flex-direction: column;" href="https://furkanucgul.github.io" >
     <img 
-    src="https://furkanucgul.github.io/CDNapp/portfolio/images/8301339924.png" 
+    src="https://furkanucgul.github.io/CDNapp/portfolio/images/cdnapp.gif" 
     alt
-    width="320"
-    height="200"
     >
 </a>
 
-<a href="https://rentyourcars.vercel.app/">
+<a style="display: flex; flex-direction: column;" href="https://furkanucgul.github.io" >
     <img 
-    src="https://furkanucgul.github.io/CDNapp/portfolio/images/driveshare1.jpg" 
+    src="https://furkanucgul.github.io/CDNapp/portfolio/images/havvaturizm.gif" 
     alt
-    width="320"
-    height="200"
     >
 </a>
 
-<a href="https://furkanucgul.github.io/3d-starwars">
+<a style="display: flex; flex-direction: column;" href="https://furkanucgul.github.io" >
     <img 
-    src="https://furkanucgul.github.io/CDNapp/portfolio/images/7095261185.jpg" 
+    src="https://furkanucgul.github.io/CDNapp/portfolio/images/driveshare4.gif" 
     alt
-    width="320"
-    height="200"
-    >
-</a>
-
-<a href="https://furkanucgul.github.io">
-    <img 
-    src="https://furkanucgul.github.io/CDNapp/portfolio/images/4366055700.jpg" 
-    alt
-    width="320"
-    height="200"
     >
 </a>
 </div>
