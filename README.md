@@ -73,7 +73,7 @@ Keep in mind, I regularly update with new projects and improvements, so be sure 
 <br/>
 <br/>
 
-<a href="https://furkanucgul.github.io" >
+<a href="https://rentyourcars.vercel.app">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/rentcar.gif" 
     alt
@@ -186,7 +186,7 @@ We welcome any feedback. Happy coding! 👨‍💻✨
 <br/>
 
 
-<a style="display: flex; flex-direction: column;" href="https://furkanucgul.github.io" >
+<a href="https://trendyolclone.vercel.app" >
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/trendyol.gif" 
     alt
@@ -223,7 +223,7 @@ Hello, shopaholics! Trendyol Clone is an innovative online shopping platform on 
 <h2>How to Get Started?</h2>
 <ul>
     <li>
-        Visit our website: <a href="">Trendyol Clone</a>
+        Visit our website: <a href="https://trendyolclone.vercel.app">Trendyol Clone</a>
     </li>
     <li>
         Start shopping right away or create an account!
@@ -244,7 +244,7 @@ Hello, shopaholics! Trendyol Clone is an innovative online shopping platform on 
 <br/>
 <br/>
 
-<a href="https://furkanucgul.github.io" >
+<a href="https://furkanucgul.github.io">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/cdnapp.gif" 
     alt
@@ -290,7 +290,7 @@ If you have any feedback, suggestions, or questions, please feel free to let me 
 <br/>
 
 
-<a href="https://havvaturizm.vercel.app/" >
+<a href="https://havvaturizm.vercel.app/">
     <img 
     src="https://furkanucgul.github.io/CDNapp/portfolio/images/havvaturizm.gif" 
     alt
