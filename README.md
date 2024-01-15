@@ -36,9 +36,9 @@ I prioritize responsive design and user experience, effectively visualize data, 
 </a>
 
 <div>
-    <h1>🌟 Furkan Uçgul - Portfolio Website</h1>
+    <h1>🌟 Furkan Ucgul - Portfolio Website</h1>
 
-Hello! I'm Furkan Uçgul, and I'm delighted to welcome you to my personal portfolio website developed using Next.js and React.js. In this project, I've brought together various technologies to introduce myself, showcase my skills, and present the projects I've worked on.
+Hello! I'm Furkan Ucgul, and I'm delighted to welcome you to my personal portfolio website developed using Next.js and React.js. In this project, I've brought together various technologies to introduce myself, showcase my skills, and present the projects I've worked on.
 
 <h2>🛠️ Technologies Used and Features:</h2>
 
